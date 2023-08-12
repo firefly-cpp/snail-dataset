@@ -1,5 +1,8 @@
 # Arion rufus snails dataset
 
+![GitHub repo size](https://img.shields.io/github/repo-size/firefly-cpp/snail-dataset?style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/firefly-cpp/snail-dataset.svg)](https://github.com/firefly-cpp/snail-dataset/blob/master/LICENSE)
+
 ## Description
 This dataset contains 396 images of Arion Rufus snails, a species of land snail commonly found in Europe and Asia. They are one of the most destructive pests in Europe. The images were taken under different lighting conditions and from various angles to provide a diverse set of data for various computer vision applications.
 
