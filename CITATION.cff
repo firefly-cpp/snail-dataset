@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Vrbančič
+    given-names: Grega
+  - family-names: Kukovec
+    given-names: Rok
+  - family-names: Fister
+    given-names: Iztok
+  - family-names: Podgorelec
+    given-names: Vili
+  - family-names: Salcedo-Sanz
+    given-names: Sancho
+  - family-names: Fister Jr.
+    given-names: Iztok
+doi: "10.1109/CINTI-MACRo57952.2022.10029588"
+message: "If you use this work, please cite it as follows:"
+date-released: "2022"
+conference: "2022 IEEE 22nd International Symposium on Computational Intelligence and Informatics and 8th IEEE International Conference on Recent Achievements in Mechatronics, Automation, Computer Science and Robotics (CINTI-MACRo)"
+location: "Budapest, Hungary"
+pages: "000369-000374"
+license: "CC-BY-4.0"
+title: "Profiling the Arion rufus snails with computer vision"
